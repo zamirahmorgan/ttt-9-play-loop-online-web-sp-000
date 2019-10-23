@@ -36,7 +36,7 @@ def turn(board)
 end
 
 # Define your play method below
-board = ["X", " ", " ", " ", " ", " ", " ", " ", " ", " ", ""]
+board = ["X", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 puts display_board(board)
 #turn(board)
