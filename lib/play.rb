@@ -32,6 +32,7 @@ def turn(board)
     display_board(board)
     #turn(board)
   else
+    puts "This is an invalid entry!"
     turn(board)
   end
 end
