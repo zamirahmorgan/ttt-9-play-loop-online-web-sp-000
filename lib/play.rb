@@ -45,7 +45,7 @@ def play(board)
     counter = counter + 1
     turn(board)
     if counter >= turns
-      puts "You only get #{turns} turns!"
+      puts "You only get #{turns} number of turns!"
     end
   end
 end
